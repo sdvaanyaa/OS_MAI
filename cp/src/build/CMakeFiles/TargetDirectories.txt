@@ -1,3 +1,0 @@
-/Users/ivan/OS_MAI/KP/src/build/CMakeFiles/main.dir
-/Users/ivan/OS_MAI/KP/src/build/CMakeFiles/edit_cache.dir
-/Users/ivan/OS_MAI/KP/src/build/CMakeFiles/rebuild_cache.dir
